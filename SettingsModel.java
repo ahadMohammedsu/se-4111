@@ -16,6 +16,7 @@ public class SettingsModel {
         System.out.println("Ahad");
         System.out.println("Dalal");
         System.out.println("Jawaher");
+        System.out.println("Shahed");
 
         return uniqueInstance;
     }
