@@ -14,7 +14,8 @@ public class SettingsModel {
             uniqueInstance = new SettingsModel();
         }
         System.out.println("Ahad");
-
+        System.out.println("Dalal");
+        System.out.println("Jawaher");
 
         return uniqueInstance;
     }
